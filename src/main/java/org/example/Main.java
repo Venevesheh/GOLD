@@ -17,6 +17,7 @@ gold2.setRawGoldSalePrice(3_100_000);
 gold2.setInterest(25);
 
 
+
         System.out.println(gold2.toString());
         System.out.println();
         System.out.println(" : سود خالص  " +(gold2.getFinalSalePrice()-gold2.getTotalPrice()));
